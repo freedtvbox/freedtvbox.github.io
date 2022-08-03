@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/CatVod/jar/Hsck.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/CatVod/main/jar/Hsck.jar;md5;95f1754708eeaf127d93fea25dcd120a",
   "sites": [
     {
       "key": "csp_Xpath_lezhu",
@@ -9,7 +9,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/CatVod/XPathMac/lezhutv.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/CatVod/main/XPathMac/lezhutv.json"
     },
     {
       "key": "csp_QQ",
@@ -46,7 +46,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"http://kvymin.github.io/CatVod/Xpath/bttwoo.json"},
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/CatVod/main/Xpath/bttwoo.json"},
     {
       "key":"csp_xpath_wmkk",
       "name":"完美看看〔XP〕",
@@ -55,7 +55,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://kvymin.github.io/CatVod/Xpath/wanmeikk.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/CatVod/main/Xpath/wanmeikk.json"
     },
     {
       "key": "csp_xpath_cokemv",
